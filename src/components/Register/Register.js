@@ -94,6 +94,7 @@ class Register extends React.Component {
             </div>
           </div>
         </main>
+        <p>Use fake information for safety.</p>
       </article>
     );
   }
